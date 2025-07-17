@@ -22,20 +22,20 @@ To run the project locally:
 
 1. Clone the repository:
 
-   ```bash
+```bash
 git clone https://github.com/your-username/custom-countdown.git
-  ```
+```
 2. Clone the repository:
 
-  ```bash
+```bash
 cd custom-countdown
-  ```
+```
 
 3. Open index.html in your browser:
 
 ```bash
 open index.html
-  ```
+```
 
 ## 🎯 Function Highlights
 
